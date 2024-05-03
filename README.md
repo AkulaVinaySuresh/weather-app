@@ -1,4 +1,4 @@
- Weather Forecast Project
+Weather Forecast Project
 
 This project provides a simple weather forecast application using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. It allows users to enter a location and view the current weather conditions, as well as a 5-day forecast.
 
@@ -7,7 +7,7 @@ This project provides a simple weather forecast application using HTML, CSS, and
 - **Technologies:** HTML, CSS, JavaScript.
 - **API:** Utilizes the OpenWeatherMap API to fetch weather data.
 
- Features:
+Features:
 1. **Current Weather:** Display current weather conditions, including temperature, humidity, wind speed, and weather description.
 2. **5-Day Forecast:** Show a 5-day forecast with daily temperature highs and lows.
 3. **Location Search:** Allow users to search for weather information by entering a city name.
@@ -27,4 +27,4 @@ This project provides a simple weather forecast application using HTML, CSS, and
 1. Enter the name of a city or location in the provided input field.
 2. Press the "Search" button or hit Enter to fetch weather information for the specified location.
 3. View the current weather conditions and 5-day forecast displayed on the screen.
-4. View it [here](akulavinaysuresh.github.io/weatherapp)
+4. View it [here](https://akulavinaysuresh.github.io/weatherapp/)
