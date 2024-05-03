@@ -27,10 +27,3 @@ This project provides a simple weather forecast application using HTML, CSS, and
 1. Enter the name of a city or location in the provided input field.
 2. Press the "Search" button or hit Enter to fetch weather information for the specified location.
 3. View the current weather conditions and 5-day forecast displayed on the screen.
-
- Credits:
-- Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
-- Icons used in the application are sourced from [Iconfinder](https://www.iconfinder.com/).
-
- License:
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
