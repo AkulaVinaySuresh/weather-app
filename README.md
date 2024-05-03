@@ -1,0 +1,38 @@
+### Weather Forecast Project
+
+This project provides a simple weather forecast application using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. It allows users to enter a location and view the current weather conditions, as well as a 5-day forecast.
+
+#### Project Overview:
+- **Objective:** Display weather forecast information for a specified location.
+- **Technologies:** HTML, CSS, JavaScript.
+- **API:** Utilizes the OpenWeatherMap API to fetch weather data.
+
+#### Features:
+1. **Current Weather:** Display current weather conditions, including temperature, humidity, wind speed, and weather description.
+2. **5-Day Forecast:** Show a 5-day forecast with daily temperature highs and lows.
+3. **Location Search:** Allow users to search for weather information by entering a city name.
+
+#### Project Structure:
+- **`index.html`:** HTML file containing the structure of the weather forecast application.
+- **`style.css`:** CSS file for styling the application interface.
+- **`script.js`:** JavaScript file for fetching weather data from the OpenWeatherMap API and updating the UI.
+- **`assets/`:** Directory containing any additional assets such as icons or images.
+
+#### Setup Instructions:
+1. Sign up for an account on [OpenWeatherMap](https://openweathermap.org/) to obtain an API key.
+2. Replace the placeholder API key in the `script.js` file with your own API key.
+3. Open the `index.html` file in a web browser to view the weather forecast application.
+
+#### Usage:
+1. Enter the name of a city or location in the provided input field.
+2. Press the "Search" button or hit Enter to fetch weather information for the specified location.
+3. View the current weather conditions and 5-day forecast displayed on the screen.
+
+#### Credits:
+- Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
+- Icons used in the application are sourced from [Iconfinder](https://www.iconfinder.com/).
+
+#### License:
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Feel free to contribute, report issues, or provide feedback to enhance the weather forecast application!
